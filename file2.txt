@@ -2,6 +2,6 @@ file 2 bla bla
 
 
 
-some discription 2
+some discription 2 changed from master
 
 changed file 2 bla bla bla bal
